@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://DeepakGitH.github.io
+title: Deepak Sharma
+tagline: Difficult things in Data Science
+description: I am a data science practitioner and here I will explain things I have found difficult and challenging and worth more elaboration
+paginate: 5

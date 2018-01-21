@@ -7,3 +7,4 @@ tagline: Difficult things in Data Science
 description: I am a data science practitioner and here I will talk about things I have found difficult and challenging and worth more elaboration
 paginate: 5
 permalink: /blog/:year/:month/:day/:title
+theme: jekyll-theme-modernist
